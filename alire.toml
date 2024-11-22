@@ -1,10 +1,12 @@
 name = "my_hello_world"
-description = "My First Program"
+description = "My first program."
 version = "0.1.0-dev"
 
 authors = ["theTechyTaran"]
 maintainers = ["theTechyTaran <68347504+booboojp@users.noreply.github.com>"]
 maintainers-logins = ["booboojp"]
-licenses = "GPL-3.0-or-later"
+licenses = "GPL-3.0-or-later WITH GCC-exception-3.1"
 website = ""
-tags = []
+tags = ["nonprod"]
+
+executables = ["my_hello_world"]
